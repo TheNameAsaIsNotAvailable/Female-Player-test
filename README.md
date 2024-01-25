@@ -7,6 +7,6 @@ In addition, an extra 'hat bone' has been added to demonstrate the 'dynamic' pot
 
 ~ AsaSK / Asa0330
 
-*an attempt that didn't go so well
+*plus an attempt that didn't go so well
 
 ![bugvideo-ezgif com-optimize (2)](https://github.com/TheNameAsaIsNotAvailable/Female-Player-test/assets/111624709/f2f8ceb1-4a39-4a49-9453-7f2cd970f509)
